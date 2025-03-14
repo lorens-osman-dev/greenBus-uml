@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: 5rkwf-ntegr
+created: 2025-03-12T07:29:53+03:00
