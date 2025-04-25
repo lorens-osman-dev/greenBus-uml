@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "4ab340de0346f5ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "f18e58772377b721",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e43831e73d2ee50d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLUSTERS/green_bus-cluster/db/prototyping advices.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "prototyping advices"
+            }
+          },
+          {
+            "id": "3967f35b16d9854c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLUSTERS/green_bus-cluster/db/prototyping advices/General Rules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "General Rules"
+            }
+          },
+          {
+            "id": "58386ea05ea2315e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLUSTERS/green_bus-cluster/db/prototyping advices/General Rules/Don't use serial.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Don't use serial"
+            }
+          },
+          {
+            "id": "d58fffd31db287d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLUSTERS/green_bus-cluster/db/prototyping advices/General Rules/Use public keys.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Use public keys"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f971a9bd5ce193f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "84e28e7640fad688",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8ddb0fa36f73f43",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7ba95ee0a0e195d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "00caf9b01162aa43",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 211.5
+  },
+  "right": {
+    "id": "775fc6425ab4a5c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "87bd8fed09c151a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82da7c30f90945a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CLUSTERS/green_bus-cluster.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for green_bus-cluster"
+            }
+          },
+          {
+            "id": "fe165da2e070dc15",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CLUSTERS/green_bus-cluster.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from green_bus-cluster"
+            }
+          },
+          {
+            "id": "0c92034949b7d1ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "99372f46561979cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CLUSTERS/green_bus-cluster.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of green_bus-cluster"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "cluster:Create new cluster": false
+    }
+  },
+  "active": "e43831e73d2ee50d",
+  "lastOpenFiles": [
+    "CLUSTERS/green_bus-cluster/db/prototyping advices/General Rules.md",
+    "CLUSTERS/green_bus-cluster/db/prototyping advices/General Rules/Don't use serial.md",
+    "CLUSTERS/green_bus-cluster/db.md",
+    "CLUSTERS/green_bus-cluster/db/prototyping advices/General Rules/Use UUID7.md",
+    "CLUSTERS/green_bus-cluster/db/prototyping advices.md",
+    "CLUSTERS/green_bus-cluster/db/prototyping advices/General Rules/Use public keys.md",
+    "CLUSTERS/green_bus-cluster/db/prototyping advices/General Rules/Think About How You're Using the Data.md",
+    "Untitled.md",
+    "CLUSTERS/green_bus-cluster/db/prototyping advices/General Rules/Never assume that any data will be bounded.md",
+    "CLUSTERS/green_bus-cluster/db/prototyping advices/General Rules/Don't use auto incrementing integer primary keys.md",
+    "CLUSTERS/green_bus-cluster/db/prototyping advices/General Rules/Think hard what kind of index type you need.md",
+    "CLUSTERS/green_bus-cluster/db/prototyping advices/General Rules/Hard or Soft enforce FK keys.md",
+    "Untitled",
+    "Untitled/sdfsdf.md",
+    "tttt.md",
+    "CLUSTERS/green_bus-cluster/db/prototyping advices/General Rules/Document \"why\" you made an architecture or schema decision..md",
+    "CLUSTERS/green_bus-cluster/db/prototyping advices/General Rules/Never underestimate the network round trip.md",
+    "CLUSTERS/green_bus-cluster/db/prototyping advices/General Rules/Don't denormalize.md",
+    "CLUSTERS/green_bus-cluster/db/prototyping advices/General Rules/constraints should be enforced in the application tier.md",
+    "CLUSTERS/green_bus-cluster/db/prototyping advices/constraints should be enforced in the application tier.md",
+    "CLUSTERS/green_bus-cluster/db/prototyping advices/hard and soft enforce FK keys.md",
+    "CLUSTERS/green_bus-cluster/db/prototyping advices/Don't denormalize.md",
+    "CLUSTERS/green_bus-cluster/db/prototyping advices/Don't use serial.md",
+    "CLUSTERS/green_bus-cluster/db/prototyping advices/General Rules",
+    "CLUSTERS/green_bus-cluster.md",
+    "CLUSTERS/green_bus-cluster/wordPress plugin.md",
+    "CLUSTERS/green_bus-cluster/wordPress plugin/database.md",
+    "CLUSTERS/green_bus-cluster/drawio.md",
+    "CLUSTERS/green_bus-cluster/db/prototyping advices",
+    "CLUSTERS/green_bus-cluster/wordPress plugin",
+    "CLUSTERS/green_bus-cluster/db",
+    "CLUSTERS/green_bus-cluster",
+    "CLUSTERS",
+    "ORPHANS"
+  ]
+}
